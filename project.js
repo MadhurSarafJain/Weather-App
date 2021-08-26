@@ -15,7 +15,7 @@ const cloudelement = document.querySelector(".cloud");
  //api key 
  const api = { 
      key : "49b133b104ecda6b826aeee8b78c8eb4",
-     base : "http://api.openweathermap.org/data/2.5/"}
+     base : "https://api.openweathermap.org/data/2.5/"}
 
 
      const searchbox = document.querySelector(".searchbox");
